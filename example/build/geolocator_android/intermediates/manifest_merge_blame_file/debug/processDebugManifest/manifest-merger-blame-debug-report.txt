@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.baseflow.geolocator" >
+4
+5    <uses-sdk android:minSdkVersion="18" />
+6
+7    <application>
+7-->/Volumes/OCSEx/Projects/FlutterPackages/Custom/geolocator_android/android/src/main/AndroidManifest.xml:3:3-9:17
+8        <service
+8-->/Volumes/OCSEx/Projects/FlutterPackages/Custom/geolocator_android/android/src/main/AndroidManifest.xml:4:5-8:51
+9            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+9-->/Volumes/OCSEx/Projects/FlutterPackages/Custom/geolocator_android/android/src/main/AndroidManifest.xml:8:7-48
+10            android:enabled="true"
+10-->/Volumes/OCSEx/Projects/FlutterPackages/Custom/geolocator_android/android/src/main/AndroidManifest.xml:5:7-29
+11            android:exported="false"
+11-->/Volumes/OCSEx/Projects/FlutterPackages/Custom/geolocator_android/android/src/main/AndroidManifest.xml:6:7-31
+12            android:foregroundServiceType="location" />
+12-->/Volumes/OCSEx/Projects/FlutterPackages/Custom/geolocator_android/android/src/main/AndroidManifest.xml:7:7-47
+13    </application>
+14
+15</manifest>

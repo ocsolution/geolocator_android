@@ -1,0 +1,1 @@
+ /Volumes/OCSEx/Projects/FlutterPackages/Custom/geolocator_android/example/.dart_tool/flutter_build/88ab3649f5213bf681de585efee2de6c/native_assets.yaml: 
